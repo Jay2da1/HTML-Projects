@@ -1,0 +1,50 @@
+/* Center content inside main */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* Style the title */
+  #title {
+    font-size: 2.5rem;
+    margin: 20px 0;
+  }
+  
+  /* Image container */
+  #img-div {
+    margin: 20px 0;
+  }
+  
+  /* Image styling */
+  #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  /* Caption */
+  #img-caption {
+    font-style: italic;
+    margin-top: 10px;
+  }
+  
+  /* Text content */
+  #tribute-info {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin: 20px 0;
+  }
+  
+  /* Link styling */
+  #tribute-link {
+    font-size: 1.2rem;
+    color: #1b95e0;
+    text-decoration: none;
+  }
+  
+  #tribute-link:hover {
+    text-decoration: underline;
+  }
+  
